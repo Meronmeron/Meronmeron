@@ -1,4 +1,4 @@
-### Hey there <img src="https://github.com/Meronmeron" width="30px"/> , I'm Meron.
+### Hey there , I'm Meron.
 
 > **<div align="center">Computer Engineer</div>** > <img src="https://komarev.com/ghpvc/?username=wubeZ&style=flat-square&color=blue" alt=""/>
 
