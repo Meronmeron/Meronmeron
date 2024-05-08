@@ -4,7 +4,7 @@
 <h3 align="center">A Frontend Developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-- 🔭 I’m currently working on [Aiqemtech](aiqem.tech)
+- 🔭 I’m currently working on [Aiqemtech](https://www.aiqem.tech/)
 
 - 🌱 I’m currently learning **Machine Learning,Python**
 
