@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Python**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-zeta-six-97.vercel.app](my-portfolio-zeta-six-97.vercel.app)
+- 👨‍💻 All of my projects are available at [my-portfolio-zeta-six-97.vercel.app](https://my-portfolio-zeta-six-97.vercel.app/)
 
 - 💬 Ask me about **React,Javascript,SQL,Docker**
 
