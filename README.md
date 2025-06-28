@@ -4,7 +4,7 @@
 <h3 align="center">A Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-- 🔭 I’m currently working on [E-Commerce system Tina Mart]([https://tinamart.com/])
+- 🔭 I’m currently working on [E-Commerce system Tina Mart](https://tinamart.com/)
 
 - 🌱 I’m currently learning **Machine Learning,Python**
 
