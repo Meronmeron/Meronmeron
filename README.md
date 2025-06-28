@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Meron</h1>
-<h3 align="center">A Frontend Developer from Ethiopia</h3>
+<h3 align="center">A Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 - 🔭 I’m currently working on [Aiqemtech](https://www.aiqem.tech/)
