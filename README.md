@@ -1,16 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Meron</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">AI Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
-
-- 🔭 I’m currently working on [E-Commerce system Tina Mart](https://tinamart.com/)
-
-- 🌱 I’m currently learning **Machine Learning,Python**
 
 - 👨‍💻 All of my projects are available at [my-portfolio-zeta-six-97.vercel.app](https://my-portfolio-zeta-six-97.vercel.app/)
 
-- 💬 Ask me about **React,Javascript,SQL,Docker**
+- 💬 Ask me about **Building AI Agents, Multi-Agent Systems, RAG, LLM Integrations, and Production AI Systems**
 
 - 📫 How to reach me **meronabdo954@gmail.com**
 
