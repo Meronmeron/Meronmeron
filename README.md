@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **meronabdo954@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/a6en1gnf9q](https://flowcv.com/resume/a6en1gnf9q)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
