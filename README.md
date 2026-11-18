@@ -4,7 +4,7 @@
 <h3 align="center">AI Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-- 👨‍💻 All of my projects are available at [my-portfolio-zeta-six-97.vercel.app](https://my-portfolio-zeta-six-97.vercel.app/)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **Building AI Agents, Multi-Agent Systems, RAG, LLM Integrations, and Production AI Systems**
 
